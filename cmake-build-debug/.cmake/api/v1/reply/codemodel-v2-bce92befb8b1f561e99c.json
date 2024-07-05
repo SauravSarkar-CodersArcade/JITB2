@@ -1,0 +1,294 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "JITB2CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP-Debug-b2bc51421dfd32154eb4.json",
+					"name" : "JITB2CPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_0-Debug-8ef1022509588195349a.json",
+					"name" : "JITB2CPP_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_1-Debug-3dcfafadbfe298e44a63.json",
+					"name" : "JITB2CPP_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_10-Debug-888ccb1dd5f58b16f93d.json",
+					"name" : "JITB2CPP_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_11-Debug-619c18072454312c0e8e.json",
+					"name" : "JITB2CPP_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_12-Debug-6107179893da4dd49cf0.json",
+					"name" : "JITB2CPP_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_13-Debug-a54189adc87ea2502a5f.json",
+					"name" : "JITB2CPP_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_14-Debug-0fabe6291c799af2dd65.json",
+					"name" : "JITB2CPP_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_15-Debug-d1a2a9e9a8a7d67c6d6b.json",
+					"name" : "JITB2CPP_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_16-Debug-5b283c5d15f1aa1e4bcb.json",
+					"name" : "JITB2CPP_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_17-Debug-80dbda2f692cb8b97412.json",
+					"name" : "JITB2CPP_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_18-Debug-12e3e09c521c35233151.json",
+					"name" : "JITB2CPP_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_19-Debug-c1d41675ba658fb1fc80.json",
+					"name" : "JITB2CPP_19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_2-Debug-f2609a2ebebf40a7eb9c.json",
+					"name" : "JITB2CPP_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_20-Debug-cc7dbd06949ef75d5ea3.json",
+					"name" : "JITB2CPP_20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_21-Debug-44cbe687fcee8e7c1eb5.json",
+					"name" : "JITB2CPP_21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_22-Debug-8541e6d295de4da98d53.json",
+					"name" : "JITB2CPP_22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_23-Debug-f36b1ae41d210e789b1d.json",
+					"name" : "JITB2CPP_23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_24-Debug-efc7b6f24917b344f532.json",
+					"name" : "JITB2CPP_24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_25-Debug-144d07e6be63c2101c36.json",
+					"name" : "JITB2CPP_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_3-Debug-4a187b49216b848c0361.json",
+					"name" : "JITB2CPP_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_4-Debug-4fae19d4040377ae18d6.json",
+					"name" : "JITB2CPP_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_5-Debug-b550292102e5e428527f.json",
+					"name" : "JITB2CPP_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_6-Debug-31a7e5ef169b8a87333b.json",
+					"name" : "JITB2CPP_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_7-Debug-42bdf76b603b38221e18.json",
+					"name" : "JITB2CPP_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_8-Debug-e6d7fed0065721a7a809.json",
+					"name" : "JITB2CPP_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JITB2CPP_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JITB2CPP_9-Debug-f34b13c28c88921b72e9.json",
+					"name" : "JITB2CPP_9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Saurav/CLionProjects/JITB2CPP/cmake-build-debug",
+		"source" : "C:/Users/Saurav/CLionProjects/JITB2CPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
